@@ -1,2 +1,2 @@
 # trialrepo
-Test repository linking.
+Test repository linking. Trying repository build.
