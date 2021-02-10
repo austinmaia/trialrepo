@@ -7,3 +7,9 @@ git commit -am '<message>' #commit changes with message
 git push #push comitted changes up to GitHub
 
 git pull #pull any changes from GitHub down to local repo
+
+git log #list of changes/commits previously made
+
+git log --oneline #abbreviated list of all changes made
+
+git log -'number' #only show that number of past commits
